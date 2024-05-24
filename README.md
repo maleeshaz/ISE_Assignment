@@ -1,2 +1,7 @@
 # ISE_Assignment
-The project created a numerology analysis tool that uses a person's birthdate figuring out the Life Path Number and determining the Lucky Color when a birthday is entered. 
+# Numerology Analysis Tool Project
+
+## Introduction
+The project created a numerology analysis tool that uses a person's birthdate to determine their Life Path Number, Lucky Colour, master numbers, and generational cohorts. As the example situation explains, it must abide by a number of crucial regulations. A software corporation has asked that tools for numerological analysis be developed. Two cases are examined: figuring out the Life Path Number and determining the Lucky Color when a birthday is entered. Finding out if two birthdays have the same Life Path Number is another goal of the research. The computation technique is predicated on lucky colors and master numbers. When a person's birthday is given, the program further attempts to locate the generate.
+
+The program takes different birth dates and is modular, easy to maintain and extend. To guarantee accuracy and resilience, it has both white-box and black-box test scenarios. Invalid dates and years are handled using input validation procedures. Throughout the development process, version control procedures were used to monitor modifications and facilitate productive teamwork. This methodical process has produced a dependable and expandable numerology analysis tool that is prepared for further improvements. This document will provide insight into the development of the requested project scenario and testing it, allowing for clarity on professional development and version controlling processes.
