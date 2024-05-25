@@ -1,7 +1,7 @@
-from life_path import LifePath
-from luck_colors import LuckyColour
-from master_number import MasterNumber
-from generation import Generation
+from calculate_life_path_number import LifePath
+from identify_luck_color import LuckyColour
+from check_master_number import MasterNumber
+from determine_generation import Generation
 from validation import Validation
 
 def main():
